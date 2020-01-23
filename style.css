@@ -1,0 +1,91 @@
+.eerst {
+    display: flex;
+    justify-content: space-between;
+}
+.memory {
+    display: flex;
+}
+.creditt {
+    margin-right: 7px;
+}
+.punten {
+    margin-right: 20px;
+    margin-top: 4px;
+}
+.fotos  {
+    display: flex;
+    position: absolute;
+    left: 0px;
+}
+.foto {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    padding-bottom: 361px;
+    padding-left: 7px;
+    padding-right: 17px;
+    padding-top: 20px;
+    justify-content: space-evenly;
+}
+.blauwe {
+    display: flex;
+    flex-direction: row;
+    margin-top: -1px;
+    margin-left:29px;
+    font-size: 49px;
+    color: white;
+}
+
+.id {
+    color: black;
+}
+.list  {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -69px;
+    margin-top: 169px;
+    font-size: 22px;
+    flex-direction:row;
+
+
+}
+.tweede{
+    margin-left: 300px;
+
+}
+.derde{
+    margin-left: 270px;
+
+}
+.pls {
+    position: absolute;
+    top: 47px;
+    z-index: -1;
+}
+.home {
+    padding-bottom: 20px;
+}
+.mdl  {
+    padding-bottom: 20px;
+}
+.ster  {
+    padding-bottom: 20px;
+}
+.os  {
+    padding-bottom: 20px;
+}
+.people  {
+    padding-bottom: 20px;
+}
+a:link {
+    display: none;
+    background-color: rgb(2, 12, 56);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  a:hover, a:active {
+    background-color: blue;
+    height: 50px;
+  }
